@@ -1,0 +1,6 @@
+<script type="text/javascript">
+　document.write("JavaScript渲染才看得到這行");
+</script>
+
+<p>其實上面還有段文字<p>
+  
